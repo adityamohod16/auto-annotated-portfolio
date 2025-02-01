@@ -7,7 +7,8 @@ client: Awesome client
 description: >-
   Learning HUB Official Your one-stop solution for free NEET exam ebooks,
   designed to help students to reach new heights
-  .                                       Click on the arrow icon for books.\
+  ..................................................................                                     
+  Click on the arrow icon for books.
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-02-01 200013.png
