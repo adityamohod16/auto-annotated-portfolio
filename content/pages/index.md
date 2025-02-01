@@ -88,7 +88,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Frequently
+    subtitle: Frequently Asked Questions
     showFeaturedImage: false
     actions:
       - type: Link
