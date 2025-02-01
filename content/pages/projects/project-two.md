@@ -11,7 +11,8 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2024-11-19 202158.png
-  altText: ''
+  altText: >-
+    https://drive.google.com/drive/folders/1KgeXn-gRuoRN2PHJ0ASI4Lh5wWBrJD31?usp=drive_link
 media:
   type: ImageBlock
   url: /images/bg2.jpg
