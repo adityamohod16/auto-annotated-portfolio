@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-02-01 200013.png
-  altText: Project thumbnail image
+  altText: NEET BOOKs
 media:
   type: ImageBlock
   url: /images/bg3.jpg
