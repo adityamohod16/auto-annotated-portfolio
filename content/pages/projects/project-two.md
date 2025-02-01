@@ -10,7 +10,7 @@ description: >-
   ease.         Click on the arrow icon for books.
 featuredImage:
   type: ImageBlock
-  url: /images/Screenshot 2025-02-01 190509.png
+  url: /images/Screenshot 2024-11-19 202158.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
