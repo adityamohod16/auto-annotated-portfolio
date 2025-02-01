@@ -14,7 +14,8 @@
                 "url": "https://t.me/Learning_HUB_11th",
                 "icon": "send",
                 "showIcon": true,
-                "altText": "Telegram"
+                "altText": "Telegram",
+                "iconPosition": "right"
             },
             {
                 "type": "Link",
