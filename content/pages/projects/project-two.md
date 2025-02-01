@@ -4,7 +4,10 @@ title: JEE BOOKs
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: ''
+description: >-
+  Learning HUB Official Your one-stop solution for free JEE Mains and Advance
+  exam ebooks, designed to help students achieve their academic dreams with
+  ease.
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-02-01 190509.png
