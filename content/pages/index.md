@@ -18,7 +18,7 @@ sections:
       Your one-stop platform for premium study materials. Discover insightful
       guides and expert resources. Access ebooks and pdfs for JEE, NEET, class
       10th and 12th. Learn, grow, and achieve your goals. Stay ahead with the
-      latest educational content. Premium quality resources at your fingertips.
+      latest educational content. Premium quality resources at your fingertips. 
     styles:
       self:
         height: auto
