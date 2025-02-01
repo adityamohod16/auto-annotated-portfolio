@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: How to Download Books ?
+title: How to download books ?
 colors: colors-a
 date: ''
 author: content/data/team/doris-soto.json
