@@ -4,7 +4,9 @@ title: How to download books ?
 colors: colors-a
 date: ''
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Go to the specific category of the books you are looking for. Then click on
+  the link provided for that specific book. 
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
