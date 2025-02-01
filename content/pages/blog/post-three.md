@@ -6,8 +6,8 @@ date: ''
 author: content/data/team/doris-soto.json
 excerpt: >-
   If you're looking for something specific, you can contact us  through the
-  Contact Us section or message  on directly. We'll do our best to add it to our
-  collection.
+  Contact Us section or massage telegram channel  on directly. We'll do our best
+  to add it to our collection.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
