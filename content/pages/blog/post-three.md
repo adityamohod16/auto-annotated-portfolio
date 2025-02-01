@@ -4,7 +4,7 @@ title: How can i request specific materials not available on this website
 colors: colors-b
 date: ''
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
