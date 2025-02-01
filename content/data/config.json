@@ -5,18 +5,23 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Learning HUB",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "label": "Telegram",
+                "url": "https://t.me/Learning_HUB_11th",
+                "icon": "send",
+                "showIcon": true,
+                "altText": "Telegram",
+                "iconPosition": "right"
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "label": "About us",
+                "url": "/projects",
+                "altText": "About us"
             },
             {
                 "type": "Link",
@@ -27,17 +32,17 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "altText": "Instagram",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/learninghubofficial?igsh=MXVrY2w4ZXRhYW5zaA==",
+                "icon": "instagram"
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "altText": "FaceBook",
+                "label": "Face Book",
+                "url": "https://www.facebook.com/share/15XEpZWw9K/",
+                "icon": "facebook"
             }
         ],
         "styles": {
@@ -69,8 +74,8 @@
             },
             {
                 "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "label": "Follow us",
+                "url": "https://t.me/Learning_HUB_11th",
                 "altText": "Netlify templates"
             }
         ],
@@ -88,7 +93,12 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
