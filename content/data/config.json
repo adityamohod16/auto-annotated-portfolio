@@ -11,7 +11,7 @@
             {
                 "type": "Link",
                 "label": "Telegram",
-                "url": "/info",
+                "url": "https://t.me/Learning_HUB_11th",
                 "icon": "send",
                 "showIcon": true,
                 "altText": "Telegram"
