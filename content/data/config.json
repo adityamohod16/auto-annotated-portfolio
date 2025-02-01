@@ -20,7 +20,8 @@
             {
                 "type": "Link",
                 "label": "About us",
-                "url": "/projects"
+                "url": "/projects",
+                "altText": "About us"
             },
             {
                 "type": "Link",
