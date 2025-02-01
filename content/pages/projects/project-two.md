@@ -11,8 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2024-11-19 202158.png
-  altText: >-
-    https://drive.google.com/drive/folders/1KgeXn-gRuoRN2PHJ0ASI4Lh5wWBrJD31?usp=drive_link
+  altText: ''
   caption: Cengage of Chemistry
 media:
   type: ImageBlock
