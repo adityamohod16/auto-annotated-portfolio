@@ -6,7 +6,8 @@ date: ''
 author: content/data/team/doris-soto.json
 excerpt: >-
   Go to the specific category of the books you are looking for. Then click on
-  the link provided for that specific book. 
+  the link provided for that specific book. Then on clicking the book on get the
+  link of google drive.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
