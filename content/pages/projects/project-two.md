@@ -35,7 +35,7 @@ bottomSections:
         elementId: ''
       - type: Link
         label: 'JEE books '
-        altText: ''
+        altText: Download
         url: /
         showIcon: true
         icon: arrowRight
