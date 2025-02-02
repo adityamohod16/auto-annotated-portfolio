@@ -26,7 +26,7 @@ bottomSections:
     actions:
       - type: Button
         label: JEE BOOK I
-        altText: JEE BOOK I
+        altText: Download
         url: /
         showIcon: true
         icon: arrowRight
