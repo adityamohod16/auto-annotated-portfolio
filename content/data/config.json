@@ -87,7 +87,7 @@
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
             "address": "Address",
-            "addressAltText": "My address"
+            "addressAltText": "logo ke dilo me"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
