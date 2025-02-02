@@ -26,7 +26,7 @@ bottomSections:
     actions:
       - type: Button
         label: ''
-        altText: ''
+        altText: JEE BOOK I
         url: /
         showIcon: true
         icon: arrowRight
