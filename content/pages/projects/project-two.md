@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: JEE BOOKs
 colors: colors-a
-date: ''
+date: '2025-02-03'
 client: Learning HUB
 description: >-
   Learning HUB Official Your one-stop solution for free JEE Mains and Advance
@@ -19,14 +19,14 @@ media:
   altText: Project image
 bottomSections:
   - type: CtaSection
-    title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    title: To download THE BOOKs
+    text: |+
+      Click on the botton given below JEE BOOK I and JEE BOOK II
+
     actions:
       - type: Button
-        label: Try it now
-        altText: ''
+        label: JEE BOOK I
+        altText: Download
         url: /
         showIcon: true
         icon: arrowRight
@@ -34,7 +34,7 @@ bottomSections:
         style: primary
         elementId: ''
       - type: Link
-        label: 'JEE books '
+        label: JEE books II
         altText: Download
         url: 'https://ebooksofficial.netlify.app/qbpage'
         showIcon: true
