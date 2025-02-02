@@ -34,7 +34,7 @@ bottomSections:
         style: primary
         elementId: ''
       - type: Link
-        label: Learn more
+        label: 'JEE books '
         altText: ''
         url: /
         showIcon: true
