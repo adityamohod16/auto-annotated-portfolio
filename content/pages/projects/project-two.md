@@ -19,7 +19,7 @@ media:
   altText: Project image
 bottomSections:
   - type: CtaSection
-    title: To dowload
+    title: To dowload THE BOOKs
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
