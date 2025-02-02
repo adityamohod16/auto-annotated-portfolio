@@ -36,7 +36,7 @@ bottomSections:
       - type: Link
         label: 'JEE books '
         altText: Download
-        url: /
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
