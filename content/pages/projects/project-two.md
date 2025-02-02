@@ -19,7 +19,7 @@ media:
   altText: Project image
 bottomSections:
   - type: CtaSection
-    title: To dowload THE BOOKs
+    title: To download THE BOOKs
     text: |+
       Click on the botton given below JEE BOOK I and JEE BOOK II
 
