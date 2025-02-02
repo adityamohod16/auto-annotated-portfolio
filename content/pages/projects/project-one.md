@@ -35,12 +35,6 @@ bottomSections:
         iconPosition: right
         style: primary
         elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/Screenshot 2024-11-19 202158.png
-      altText: Cengage of Chemistry
-      caption: ''
-      elementId: ''
     colors: colors-d
     backgroundSize: full
     elementId: ''
