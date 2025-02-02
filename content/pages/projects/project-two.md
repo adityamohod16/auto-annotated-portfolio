@@ -7,7 +7,7 @@ client: Awesome client
 description: >-
   Learning HUB Official Your one-stop solution for free JEE Mains and Advance
   exam ebooks, designed to help students achieve their academic dreams with
-  ease.         Click on the arrow icon for books.
+  ease.   
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-02-01 190509.png
