@@ -38,7 +38,7 @@ bottomSections:
     media:
       type: ImageBlock
       url: /images/Screenshot 2024-11-19 202158.png
-      altText: Hero image
+      altText: Cengage of Chemistry
       caption: Caption of the image
       elementId: ''
     colors: colors-d
