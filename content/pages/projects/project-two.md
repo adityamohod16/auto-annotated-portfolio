@@ -20,9 +20,9 @@ media:
 bottomSections:
   - type: CtaSection
     title: To dowload THE BOOKs
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |+
+      Click on the botton given below JEE BOOK I and JEE BOOK II
+
     actions:
       - type: Button
         label: JEE BOOK I
