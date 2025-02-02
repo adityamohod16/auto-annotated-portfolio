@@ -34,7 +34,7 @@ bottomSections:
         style: primary
         elementId: ''
       - type: Link
-        label: 'JEE books '
+        label: JEE books II
         altText: Download
         url: 'https://ebooksofficial.netlify.app/qbpage'
         showIcon: true
