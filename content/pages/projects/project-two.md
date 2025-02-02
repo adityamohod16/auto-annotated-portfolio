@@ -25,7 +25,7 @@ bottomSections:
       any layout and any screen.
     actions:
       - type: Button
-        label: ''
+        label: JEE BOOK I
         altText: JEE BOOK I
         url: /
         showIcon: true
