@@ -86,10 +86,10 @@
             "phoneAltText": "My phone number",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
+            "address": "Address",
+            "addressAltText": "logo ke dilo me"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "Owner -       Souvik Deb ;\nCo-Owner - Sachin,\nAniruddh,\nAditya Mohod⚡\n",
         "styles": {
             "self": {
                 "width": "narrow",
